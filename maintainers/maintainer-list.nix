@@ -234,6 +234,11 @@
     githubId = 1714287;
     name = "Owen Shepherd";
   };
+  _42willow = {
+    name = "willow";
+    email = "42willow@pm.me";
+    github = "42willow";
+    githubId = 70784752;
   _4825764518 = {
     email = "4825764518@purelymail.com";
     matrix = "@kenzie:matrix.kenzi.dev";
